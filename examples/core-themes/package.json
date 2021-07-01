@@ -18,7 +18,7 @@
     "@undataforum/gatsby-theme-posts-core": "*",
     "@undataforum/gatsby-theme-profiles-core": "*",
     "gatsby": "^3.0.3",
-    "gatsby-plugin-mdx": "^2.0.0",
+    "gatsby-plugin-mdx": "^2.8.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
