@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
           # Prevent persisting automatically generated token to allow overriding GITHUB_TOKEN with personal access token.
           persist-credentials: false
-      - uses: actions/setup-node@v2.1.5
+      - uses: actions/setup-node@v2.2.0
         with:
           node-version: '14'
       - run: yarn install --frozen-lockfile
